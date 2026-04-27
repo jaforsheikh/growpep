@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- 🔥 Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Growpep%20Agency&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## Getting Started
+<h1 align="center">🚀 Growpep – Premium Digital Agency Website</h1>
 
-First, run the development server:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&size=28&center=true&vCenter=true&width=700&lines=Modern+Agency+Website;Next.js+%2B+Tailwind+Powered;High+Conversion+UI%2FUX" />
+</p>
+
+---
+
+## 🌐 Live Demo
+👉 https://your-live-link.com
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x500.png?text=Growpep+Homepage" width="100%" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,react,figma,git" />
+</p>
+
+---
+
+## 🚀 Features
+
+✨ Premium glassmorphism UI  
+⚡ Lightning fast performance  
+📱 Fully responsive design  
+🎯 Conversion-focused sections  
+🔍 SEO optimized  
+🎬 Smooth animations  
+
+---
+
+## 🧠 Why This Project?
+
+Growpep is built to showcase a **high-end agency experience**  
+that builds trust and increases conversion.
+
+---
+
+## ⚙️ Setup Guide
 
 ```bash
+git clone https://github.com/jaforsheikh/growpep.git
+cd growpep
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
