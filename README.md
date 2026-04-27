@@ -70,8 +70,8 @@ web experiences that actually drive results.
 
 ## 📫 Contact Me
 
-📧 Email: your@email.com  
-🌐 Portfolio: https://your-portfolio-link.com  
+📧 Email: jaforsheikh258@gmail.com
+🌐 Linkedin: https://www.linkedin.com/in/jafar-sheikh/
 
 ---
 
